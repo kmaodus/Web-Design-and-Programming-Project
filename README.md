@@ -1,6 +1,6 @@
 # Art Store - Web app
 
-The topic of this project is a web application, with functionalities like registration, login, email activation of users, CAPTCHA, AJAX, different types of users (admin, moderator, unregistered, registered user), client/server-side validation, etc., that uses MySQL database, created using PHP, Javascript, HTML, CSS, and MySQL.
+The topic of this project is a web application, with functionalities like registration, login, email activation of users, CAPTCHA, AJAX, different types of users (admin, moderator, unregistered, registered user), client/server-side validation, etc., created using PHP, Javascript, HTML, CSS, and MySQL.
 
 # About the course
 Part of course [Web Design and Programming](https://www.foi.unizg.hr/sites/default/files/web_design_and_programming.pdf) at [FOI](https://www.foi.unizg.hr/en). 
@@ -9,7 +9,7 @@ The goal of the course Web Design and Programming is to introduce the students t
 
 ## Built With
 
-* [mySQL](https://www.mysql.com/)
+* [MySQL](https://www.mysql.com/)
 * [PHP](https://www.php.net/)
 * [Visual Studio Code](https://visualstudio.microsoft.com/)
 * [Putty](https://www.putty.org/) 
